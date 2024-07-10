@@ -1,4 +1,4 @@
-let numeroSecreto = 10;
+let numeroSecreto = 100;
 let tentativas = 1;
 
 //essa função é pra exibir natela do html
